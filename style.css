@@ -33,7 +33,7 @@ body {
   }
   
   .untoldcoding .img-container {
-    position: relative;
+    position: absolute;
     width: 100%;
     height: 100%;
     border: 1px solid #000;
@@ -45,8 +45,8 @@ body {
   
   .untoldcoding .img-container img {
     position: absolute;
-    left: 0;
-    top: 0;
+    left: 01;
+    top: 01;
     height: 100%;
     width: 100%;
     object-fit: cover;
