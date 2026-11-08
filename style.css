@@ -61,15 +61,15 @@ body {
     left: 0;
     top: 0;
     box-sizing: border-box;
-    padding: 20px;
+    padding: 4px;
     color: #000;
   }
   
   .untoldcoding .untoldcoding-details h2 {
     margin: 0;
-    padding: 0.5em 0;
+    padding: 0 0;
     text-transform: uppercase;
-    font-size: 1em;
+    font-size: 1.4em;
     background: linear-gradient(to right, #f32170, #ff0c08, #710071, #eedd44);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
@@ -99,8 +99,8 @@ body {
   .untoldcoding untoldcoding-details p {
     margin: 0;
     padding: 0;
-    line-height: 25px;
-    font-size: 1.3em;
-    font-weight: 900;
+    line-height: 15px;
+    font-size: 0.1em;
+    font-weight: 600;
   }
   
